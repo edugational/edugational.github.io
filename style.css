@@ -7,6 +7,14 @@ body {
   background-color: rgb(200,250,205);
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  cursor:pointer;
+}
+
 #top-nav {
   background-color: rgb(25,25,30);
   color:white;
