@@ -22,6 +22,7 @@ a:hover {
   color:white;
   top:0;
   position:fixed;
+  display:block;
 
   width:100%;
 
@@ -33,6 +34,7 @@ a:hover {
   font-size: 16px;
   background-color:transparent;
   float:left;
+  display:block;
 }
 #top-nav a:hover {
   background-color: grey;
