@@ -1,11 +1,8 @@
 * {
-  margin:none;
+  margin:0;
   padding:none;
 }
-html body {
-  margin:none;
-  padding:none;
-}
+
 body {
   font-family: sans-serif;
   background-color: rgb(250,255,240);
@@ -19,7 +16,7 @@ a:hover {
 }
 
 #top-nav {
-  background-color: rgb(25,25,30);
+  background-color: rgb(55,55,55);
   color:white;
   top:0;
   position:fixed;
