@@ -51,9 +51,11 @@ a:hover {
   text-align:center;
   padding: 15px;
 }
-
 #logo {
-  outline: 3px orange;
-  padding: 10px;
-  border-radius: 20px;
+  padding:10px;
+}
+
+#logo img {
+  outline: 3px solid orange;
+  border-radius: 10px;
 }
