@@ -54,5 +54,6 @@ a:hover {
 
 #logo {
   outline: 3px orange;
+  padding: 10px;
   border-radius: 20px;
 }
