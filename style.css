@@ -51,4 +51,8 @@ a:hover {
   text-align:center;
   padding: 15px;
 }
-  
+
+#logo {
+  outline: 3px orange;
+  border-radius: 20px;
+}
