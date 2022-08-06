@@ -42,4 +42,10 @@ a:hover {
   cursor:pointer;
   text-decoration:none;
 }
+#about {
+  background-color: red;
+  color: white;
+  text-align:center;
+  padding: 15px;
+}
   
