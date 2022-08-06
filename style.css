@@ -10,10 +10,7 @@ body {
 a {
   text-decoration: none;
 }
-a:hover {
-  text-decoration: underline;
-  cursor:pointer;
-}
+
 
 #top-nav {
   background-color: rgb(25,25,30);
