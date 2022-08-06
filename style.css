@@ -33,7 +33,7 @@ a:hover {
   padding: 16px;
   font-size: 16px;
   background-color:transparent;
-  /*float:left;*/
+  float:left;
   display:block;
 }
 #top-nav a:hover {
